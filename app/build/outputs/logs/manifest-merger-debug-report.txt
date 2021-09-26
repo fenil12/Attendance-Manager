@@ -1,0 +1,66 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:design:23.4.0] /Users/jainamsavla/.android/build-cache/53a07b7de62634ae8e54dfbcfb6f46828ed96574/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jainamsavla/.android/build-cache/714eacf707ed17e347dfe1a53af2b4cb629e479c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jainamsavla/.android/build-cache/feb7d0ea781a5b53e5260b308564dbf607201340/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jainamsavla/.android/build-cache/e5acf9d9b631b5127ae278a9df286a513945961e/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/jainamsavla/.android/build-cache/f532d022a4129786be5ab91169563c9b6cb1ed74/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.aakashfenil.bunk2.GraphActivity
+ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:11:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.example.aakashfenil.bunk2.EditorActivity
+ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml:18:19-49
+uses-sdk
+INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] /Users/jainamsavla/.android/build-cache/53a07b7de62634ae8e54dfbcfb6f46828ed96574/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/jainamsavla/.android/build-cache/cb3a05510986984d126fd13b1cd3691e76e1e9c6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/jainamsavla/.android/build-cache/714eacf707ed17e347dfe1a53af2b4cb629e479c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/jainamsavla/.android/build-cache/feb7d0ea781a5b53e5260b308564dbf607201340/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/jainamsavla/.android/build-cache/e5acf9d9b631b5127ae278a9df286a513945961e/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/jainamsavla/.android/build-cache/f532d022a4129786be5ab91169563c9b6cb1ed74/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/jainamsavla/.android/build-cache/714eacf707ed17e347dfe1a53af2b4cb629e479c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jainamsavla/Desktop/Bunk2/app/src/main/AndroidManifest.xml
